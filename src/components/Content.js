@@ -6,7 +6,9 @@ class Content extends Component {
     render() {
         return (
             <div className="row">
-            
+                <div className="col-xl-12">
+                    <h2>Your account</h2>
+                </div>
             </div>
         );
     }
